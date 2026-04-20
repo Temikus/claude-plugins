@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "temikus",
+  "description": "Temikus's Claude Code plugins marketplace.",
+  "owner": {
+    "name": "Artem Yakimenko"
+  },
+  "plugins": [
+    {
+      "name": "claude-watchdog",
+      "description": "Auto-runs a critical session post-mortem when Claude Code stops via a Stop hook + session-analyzer subagent.",
+      "category": "productivity",
+      "source": {
+        "source": "github",
+        "repo": "Temikus/claude-watchdog"
+      },
+      "homepage": "https://github.com/Temikus/claude-watchdog"
+    }
+  ]
+}
