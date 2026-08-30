@@ -21,6 +21,7 @@ Then install any plugin from the list below:
 | Plugin | Description |
 | --- | --- |
 | [`claude-watchdog`](https://github.com/Temikus/claude-watchdog) | Auto-runs a critical session post-mortem when Claude Code stops. |
+| [`claude-eloquent`](https://github.com/Temikus/claude-eloquent) | Keeps Claude's comments terse. Bounces over-commented edits back once with rewrite guidance. |
 
 ## Updating
 

@@ -15,6 +15,16 @@
         "repo": "Temikus/claude-watchdog"
       },
       "homepage": "https://github.com/Temikus/claude-watchdog"
+    },
+    {
+      "name": "claude-eloquent",
+      "description": "Keeps Claude's comments terse. Bounces over-commented edits back once with rewrite guidance.",
+      "category": "productivity",
+      "source": {
+        "source": "github",
+        "repo": "Temikus/claude-eloquent"
+      },
+      "homepage": "https://github.com/Temikus/claude-eloquent"
     }
   ]
 }
