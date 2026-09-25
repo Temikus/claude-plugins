@@ -31,8 +31,9 @@
       "description": "Page-level design principles for reports, dashboards and infographics that busy readers must grasp in five seconds.",
       "category": "design",
       "source": {
-        "source": "github",
-        "repo": "Temikus/claude-skill-infographics"
+        "source": "git-subdir",
+        "url": "https://github.com/Temikus/claude-skill-infographics.git",
+        "path": "plugin"
       },
       "homepage": "https://github.com/Temikus/claude-skill-infographics"
     }
