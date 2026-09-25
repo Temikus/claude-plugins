@@ -22,6 +22,7 @@ Then install any plugin from the list below:
 | --- | --- |
 | [`claude-watchdog`](https://github.com/Temikus/claude-watchdog) | Auto-runs a critical session post-mortem when Claude Code stops. |
 | [`claude-eloquent`](https://github.com/Temikus/claude-eloquent) | Keeps Claude's comments terse. Bounces over-commented edits back once with rewrite guidance. |
+| [`infographics`](https://github.com/Temikus/claude-skill-infographics) | Page-level design principles for reports, dashboards and infographics that busy readers must grasp in five seconds. |
 
 ## Updating
 
