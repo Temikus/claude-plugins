@@ -25,6 +25,16 @@
         "repo": "Temikus/claude-eloquent"
       },
       "homepage": "https://github.com/Temikus/claude-eloquent"
+    },
+    {
+      "name": "infographics",
+      "description": "Page-level design principles for reports, dashboards and infographics that busy readers must grasp in five seconds.",
+      "category": "design",
+      "source": {
+        "source": "github",
+        "repo": "Temikus/claude-skill-infographics"
+      },
+      "homepage": "https://github.com/Temikus/claude-skill-infographics"
     }
   ]
 }
